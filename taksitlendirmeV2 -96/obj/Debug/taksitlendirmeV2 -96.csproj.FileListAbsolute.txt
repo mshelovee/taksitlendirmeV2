@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\taksitlendirmeV2 -96\taksitlendirmeV2 -96\bin\Debug\taksitlendirmeV2 -96.exe.config
+C:\Users\User\source\repos\taksitlendirmeV2 -96\taksitlendirmeV2 -96\bin\Debug\taksitlendirmeV2 -96.exe
+C:\Users\User\source\repos\taksitlendirmeV2 -96\taksitlendirmeV2 -96\bin\Debug\taksitlendirmeV2 -96.pdb
+C:\Users\User\source\repos\taksitlendirmeV2 -96\taksitlendirmeV2 -96\obj\Debug\taksitlendirmeV2 -96.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\taksitlendirmeV2 -96\taksitlendirmeV2 -96\obj\Debug\taksitlendirmeV2 -96.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\taksitlendirmeV2 -96\taksitlendirmeV2 -96\obj\Debug\taksitlendirmeV2__96.Form1.resources
+C:\Users\User\source\repos\taksitlendirmeV2 -96\taksitlendirmeV2 -96\obj\Debug\taksitlendirmeV2__96.Properties.Resources.resources
+C:\Users\User\source\repos\taksitlendirmeV2 -96\taksitlendirmeV2 -96\obj\Debug\taksitlendirmeV2 -96.csproj.GenerateResource.cache
+C:\Users\User\source\repos\taksitlendirmeV2 -96\taksitlendirmeV2 -96\obj\Debug\taksitlendirmeV2 -96.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\taksitlendirmeV2 -96\taksitlendirmeV2 -96\obj\Debug\taksitlendirmeV2 -96.exe
+C:\Users\User\source\repos\taksitlendirmeV2 -96\taksitlendirmeV2 -96\obj\Debug\taksitlendirmeV2 -96.pdb
